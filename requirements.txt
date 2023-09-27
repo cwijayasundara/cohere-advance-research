@@ -1,0 +1,11 @@
+cohere
+langchain
+streamlit
+transformers
+datasets
+faiss-cpu
+qdrant-client
+tfds-nightly
+tensorflow
+chromadb
+pypdf
